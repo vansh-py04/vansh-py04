@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yuganter Pratap(or Vansh)
+- 👋 Hi, I’m Yuganter Pratap
 - 👀 I’m interested in Data Science, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently pursuing B.tech in Computer Science and Engineering specialization in AIML
 - 💞️ I’m looking to collaborate on Data Science Projects!!!
